@@ -1,7 +1,7 @@
 [project]
 name = "torch-state-bridge"
 version = "0.1.0"
-description = "Rename State Dictionary Keys"
+description = "A powerful library for transforming PyTorch state dict keys with rule-based mappings, arithmetic operations, and advanced transformations."
 readme = "README.md"
 authors = [
     { name = "dummyjenil", email = "dummyjenil@gmail.com" }
